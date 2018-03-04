@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+</head>
+<body>
+  <form>
+    <h1>Please enter your sentence</h1>
+    <input id="parg" type="text" />
+    <input type="button" value="Add" onclick="insert()" />
+  </form>
+  <div id="display"></div>
+</body>
+<script>
+var sentence  = [];
+var sentenceInput  = document.getElementById("parg");
+var messageBox  = document.getElementById("display");
+
+function insert() {
+ sentence.push( sentenceInput.value );
+  
+ clearAndShow();
+}
+
+function clearAndShow () {
+  // Clear our fields
+  sentenceInput.value = "";
+
+  // Show our output
+messageBox.innerHTML = "";
+messageBox.innerHTML += sentence.join('<p>');
+}
+</script>
+</html>
