@@ -6,9 +6,14 @@
                https://www.w3schools.com/jsref/jsref_map.asp
                https://www.w3schools.com/jsref/jsref_touppercase.asp
                https://stackoverflow.com/questions/29884654/button-that-refresh-page-on-click
-
-
-
+               https://css-tricks.com/snippets/javascript/check-if-number-is-evenodd/
+               http://cc.davelozinski.com/c-sharp/fastest-way-to-check-if-a-number-is-odd-or-even
+               https://stackoverflow.com/questions/12462318/find-a-value-in-an-array-of-objects-in-javascript
+               https://jsbin.com/gagurigoro/edit?js,console
+               https://www.w3schools.com/jsref/jsref_filter.asp
+               http://adripofjavascript.com/blog/drips/filtering-arrays-with-array-filter.html
+               https://stackoverflow.com/questions/35908854/could-you-tell-me-what-is-functionel
+               https://stackoverflow.com/questions/10982913/javascript-how-to-show-each-element-of-array-on-a-new-line
 
 //
 // Exercise: write a function that computes a factorial 
